@@ -15,3 +15,9 @@ Using the blend node, we can easily create simple Animation blending, like blend
 ![anim-blending](https://github.com/user-attachments/assets/74db4907-9460-44b7-a0ae-f0389c381e95)
 
 However, this simple linear blending cannot properly blend between two animations of different lengths.
+
+![bad blending](https://github.com/user-attachments/assets/78dc6c29-fc82-482e-bd77-5d40ff70ca76)
+
+For this, we use a more sophisticated Blending algorithm that tries to match the lengths of both the animations for a smooth blend transition between animations.
+
+<img width="1403" height="758" alt="TruBlend 2_4_2026 12_47_12 PM" src="https://github.com/user-attachments/assets/8ea74698-0fdd-407c-b97c-2edc80e52fc7" />
