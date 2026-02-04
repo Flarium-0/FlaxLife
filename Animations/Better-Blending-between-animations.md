@@ -59,3 +59,12 @@ Plug the `ANIM 1 speed` into the `Speed` of `Animation 1`, and the `ANIM 2 speed
 
 Done!
 
+Here is the result!. Notice how smoothly it is blending between two animations.
+
+https://github.com/user-attachments/assets/2a584cd0-436b-4b6e-8948-2bca161e7c98
+
+### Note: If, in game you face a problem where animations are not in sync, then limit the `speed` value to a range of `0.1` to `0.9`.
+
+Thanks for being here!
+
+
